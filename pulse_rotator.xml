@@ -14,5 +14,19 @@
     <url>https://brainerdconcert.com</url>
     <redirect>n</redirect>
   </panel>
+
+    <panel>
+    <number>3</number>
+    <image>https://github.com/EngineerAaron/mcbi-radio/blob/main/pulse_banner_3_640x200.png?raw=true</image>
+    <url>https://brainerdconcert.com</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>4</number>
+    <image>https://github.com/EngineerAaron/mcbi-radio/blob/main/pulse_banner_4_640x200.png?raw=true</image>
+    <url>https://brainerdconcert.com</url>
+    <redirect>n</redirect>
+  </panel>
  
  </rotator>
