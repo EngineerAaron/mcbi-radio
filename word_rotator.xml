@@ -3,12 +3,12 @@
 
   <panel>
     <number>1</number>
-    <image>https://github.com/EngineerAaron/mcbi-radio/blob/main/word_banner_640x200.png?raw=true</image>
-    <url>https://theword.mn</url>
+    <image>https://github.com/EngineerAaron/mcbi-radio/blob/main/tile-fundraiser.png?raw=true</image>
+    <url>https://donate.brickmarkers.com/mcbi</url>
     <redirect>n</redirect>
   </panel>
   <panel>
-    <number>3</number>
+    <number>2</number>
     <image>https://github.com/EngineerAaron/mcbi-radio/blob/main/pulse_banner_3_640x200.png?raw=true</image>
     <url>https://celebratemn.org/</url>
     <redirect>n</redirect>
